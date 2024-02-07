@@ -98,3 +98,4 @@ D:\Aspire\C#\New Requirements\UnitTestingLibrary\obj\Debug\net8.0\refint\UnitTes
 D:\Aspire\C#\New Requirements\UnitTestingLibrary\obj\Debug\net8.0\UnitTestingLibrary.pdb
 D:\Aspire\C#\New Requirements\UnitTestingLibrary\obj\Debug\net8.0\UnitTestingLibrary.genruntimeconfig.cache
 D:\Aspire\C#\New Requirements\UnitTestingLibrary\obj\Debug\net8.0\ref\UnitTestingLibrary.dll
+D:\Aspire\C#\New Requirements\UnitTestingLibrary\obj\Debug\net8.0\UnitTestingLibrary.sourcelink.json
